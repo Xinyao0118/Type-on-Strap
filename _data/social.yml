@@ -1,16 +1,16 @@
 # Icons on the footer
-rss: true
-email_address:    # Full email address, e.g. "sam@example.com"
+rss: 
+email_address:  xw2598@cumc.columbia.edu  # Full email address, e.g. "sam@example.com"
 behance:
 bitbucket:
 dribbble:
 facebook:
 flickr:
 gitlab:
-github: "sylhare"
+github: xinyao0118
 instagram:
 keybase:
-linkedin:         # Full URL
+linkedin:  https://www.linkedin.com/in/xinyao-wu/       # Full URL
 pinterest:
 reddit:
 soundcloud:
@@ -29,12 +29,12 @@ feed:
 
 # Share button options
 share:
-  facebook: true
-  twitter: true
+  facebook: 
+  twitter: 
   tumblr:
   pinterest:
   pocket:
-  reddit: true
-  linkedin:
+  reddit: 
+  linkedin: true
   wordpress:
   email: true
